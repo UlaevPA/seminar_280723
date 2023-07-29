@@ -4,3 +4,6 @@
 
 * git pull - делает пулл
 * git push - делает пуш
+
+* git push - push 
+* git pull - pull
